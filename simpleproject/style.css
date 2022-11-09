@@ -1,0 +1,62 @@
+html{
+    background-image: url('unt.png');
+overflow: hidden;
+background-size: cover;
+}
+
+.box-container{
+    width: auto;
+    display:grid;
+    justify-content: center;
+    max-width: 22cm;
+    margin-top: 4cm;
+    border-radius: 10px;
+    height: 12cm;
+    background: rgba(11, 4, 114, 0.164);
+}
+
+ .box-0{
+
+    margin-top: 1cm;
+    width: 18cm;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height:80px;
+border-radius: 10px;
+    background: rgb(245, 245, 245);
+}
+
+ .box-1{
+    width:100%;
+    border-radius: 10px;
+    margin-bottom: 10px;
+
+max-width: 6cm;
+    height:3cm;
+    background: rgb(245, 245, 245);
+
+}
+.box-2{
+position: relative;
+left: 6cm;
+top: -6.5cm;
+margin-left: 20px;
+max-width: 7cm;
+    height:5cm;
+
+    border-radius: 10px;
+
+    background: rgb(245, 245, 245);
+}
+.box-3{
+    position: relative;
+    left: 13.5cm;
+    top: -11.5cm;
+    margin-left: 20px;
+    max-width: 4cm;
+        height:5cm;
+    
+        border-radius: 10px;
+    
+        background: rgb(245, 245, 245);
+    }
